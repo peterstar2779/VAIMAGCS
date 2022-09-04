@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/peter/AndroidStudioProjects/VAIMAGCS/app/src/main/res/layout/activity_main.xml" value="0.38645833333333335" />
+        <entry key="..\:/Users/peter/AndroidStudioProjects/VAIMAGCS/app/src/main/res/drawable-v24/bg_chat_send.xml" value="0.182" />
+        <entry key="..\:/Users/peter/AndroidStudioProjects/VAIMAGCS/app/src/main/res/drawable-v24/border_outline.xml" value="0.182" />
+        <entry key="..\:/Users/peter/AndroidStudioProjects/VAIMAGCS/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/peter/AndroidStudioProjects/VAIMAGCS/app/src/main/res/layout/adapter_message_one.xml" value="0.1734375" />
+        <entry key="..\:/Users/peter/AndroidStudioProjects/VAIMAGCS/app/src/main/res/layout/dialog_signin.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/peter/AndroidStudioProjects/VAIMAGCS/app/src/main/res/layout/dialogflowactivity_main.xml" value="0.2234375" />
       </map>
     </option>
   </component>

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "atomic-sled-185202",
+  "private_key_id": "695bb98594c5d77cc7d914bf648d45055e0d2c7b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDNFGmG924f4w5G\ncn2hkTVHQkOJmTcrf0EpCrptDdHfMFVcDIIj1D897SqznyPaOx7/Yg0N88Ijw7XM\nLggM39hyx+fT2pjm6WhLGxCHYqYoIlHkARV0kNTU5vqnLev1ig4iWzbstYrSWox0\n6yF+T3ZFTk31dF8hi3RLz8rk0ZOhw8bMgocrkhx9nodwKGQaKh5dlu/wsACDXLBm\nS28/gootFIfNulzU72aBdo4HbAYN4Bon3uUs8gDlZntHuBD5Itb1cl5YeVnOfiGo\n8VVTCniXo1Lla77PSRmpT2r4lLaQQJJ73nJQB7/m4uSh+HkdGDsw2hbw9SGnJinr\nk+Kkme+ZAgMBAAECggEAKD9/Tmu1AzEOlijWGyVibW/FzXVybGj3ItTmLYzuyXy0\n4/HYgKuhFcg7/zCWWrgLp1dY9IoIafh472+BSPWNh0lQaDWYmIjqXQMcxVVJAstp\ngvPrgAsEmhwSyUir7G6Bw6BfMSmX6xy2QCP9WMrDjWqGxktmeDDkTBSl3y56aN6n\naX22iwWTlAXuX+CMNaMKUDSm75bOfAIF3JzCdXnA6VxqZdZODiyQrIjS0NDPQ17T\nzRHqI+BwpN6yzfPPN/p8+5Xdulq9gIuZViXAywVPWHAol9WYY8SmcZGID9LiyWu8\nuXnpiHZhbQsg3N0Rd32iyVgcMIt9fie2+P7cvn7ymQKBgQDqasNopJQthJ6v/vbq\nBLxKqdWs81Q7o8OvXpYb/LIjs3krVnPfwKCs1fQo22Bj/KqQpgf8IImka8No31+i\nBVKRwVvoniJvsOcihQf9FYYgkKzqyDTdy/tMNpzHhX7KdoG0dWblGZWIROhyo0ZT\nng/yChFnVPSXYckWvesOv6LcvwKBgQDf9ipHjcvseQdv0+/A5aKxH+5/7f9+mPg5\ns/EN87aElj3b4jknw1PNwC3lwaX2xfjEn3Yx0fWMBMa0sEPKPAeVS0dG8zbzw11l\n4z4x4/0SXqC4mrkBEgMKWULyZmh4X/6s4QkbPLzHRL0k43gZ3IR6iF+QgcaKUVx+\nw1Z4ydzRpwKBgA94Tj8IpXK/js1kkRzuhRKUVLKeOE/bRd2760IbkhIDFRsEEI+S\nocfmMr/Dgn/2u7biDiLYbtz386RnIWOK4GEYFp2qWfFvBkHj75wHIJvjkFXKMpr0\njDgCXqRYLf7khTjIiqrR3mloysJN/iUkiD7b5Twhgia/YErs66dEhFX3AoGAYm3r\nCQWdwTEz/obz0SBbj2MMS/dKmdYbCik2YT5iUgVB7JiRLBOhikTTJy4jhcBeY/P9\nW0n+k+opdpIdSQ12+7tY+Sq9VQbgzn3AAOdFe0RReLCvbHQBGBRA4w31DiqKYGqK\nuQjJov5n7oV2bE9Jfhzfe0A+BN5bO28YWv/E5/MCgYEApyz7es6/3gN6v4FsdCk0\nrtfmhBKouHu3Dddjagxm84m06n1UTWl+WS9dzXi4p0G2E2R9iBrI+WaWnOz+rOuC\nuO7LMCCxGHCx1XjYVzFV/HtMZKqd5kany9Lgmt+sMyF/fdQv8Gvk+Kd0KEGgdvV6\nqTY0DY6z4TUfPJeGooO9I+s=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-dialogflow@atomic-sled-185202.iam.gserviceaccount.com",
+  "client_id": "116809310235265936023",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-dialogflow%40atomic-sled-185202.iam.gserviceaccount.com"
+}
